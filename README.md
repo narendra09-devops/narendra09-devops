@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Narendra Pratap Singh
 
-<!--
-**narendra09-devops/narendra09-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+- ☁️ AWS
+- ☸️ Kubernetes
+- 🐳 Docker
+- 🏗️ Terraform
+- ⚙️ Ansible
+- 🔄 Jenkins CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Kubernetes Administration
+- EKS
+- DevSecOps
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/narendra-pratap-singh-395646203
+- GitHub: https://github.com/narendra09-devops
