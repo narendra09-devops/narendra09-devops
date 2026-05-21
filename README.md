@@ -15,5 +15,5 @@
 - DevSecOps
 
 ## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/narendra-pratap-singh-395646203
+- LinkedIn: https://www.linkedin.com/in/narendra09-devops/
 - GitHub: https://github.com/narendra09-devops
